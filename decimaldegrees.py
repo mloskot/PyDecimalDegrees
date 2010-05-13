@@ -27,6 +27,9 @@ DESCRIPTION
 DecimalDegrees module provides functions to convert between
 degrees/minutes/seconds and decimal degrees.
 
+Original source distribution:
+http://mateusz.loskot.net/software/gis/pydecimaldegrees/
+
 Inspired by Walter Mankowski's Geo::Coordinates::DecimalDegrees module
 for Perl, originally located in CPAN Archives:
 http://search.cpan.org/~waltman/Geo-Coordinates-DecimalDegrees-0.05/

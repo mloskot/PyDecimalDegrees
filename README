@@ -1,7 +1,7 @@
 PyDecimalDegrees - geographic coordinates conversion utility.
 
-Copyright (C) 2006 by Mateusz Łoskot <mateusz@loskot.net>
-Altered in 2010 by Evan Wheeler <ewheeler@unicef.org>
+Copyright (C) 2006-2013 by Mateusz Łoskot <mateusz@loskot.net>
+Copyright (C) 2010-2013 by Evan Wheeler <ewheeler@unicef.org>
 
 This file is part of PyDecimalDegrees module.
 
